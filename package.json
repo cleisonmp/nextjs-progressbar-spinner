@@ -1,6 +1,6 @@
 {
   "name": "nextjs-progressbar-spinner",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Nextjs component for a loading effect between pages using nprogress and react-spinners.",
   "scripts": {
     "rollup": "rollup -c"
@@ -9,6 +9,17 @@
     "type": "git",
     "url": "git+https://github.com/cleisonmp/nextjs-progressbar-spinner.git"
   },
+  "keywords": [
+    "Next",
+    "Next.js",
+    "Nextjs",
+    "progressbar",
+    "Nprogress",
+    "react-spinners",
+    "react",
+    "spinner",
+    "loading"
+  ],
   "author": "Cleison Pereira",
   "license": "MIT",
   "bugs": {

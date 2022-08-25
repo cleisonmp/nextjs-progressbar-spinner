@@ -5,7 +5,7 @@ Next.js component for a loading effect between pages mixing [nprogress](http://r
 This component was based on [Next.js Progressbar](https://github.com/apal21/nextjs-progressbar)
 
 ## Live demo
-[https://.vercel.app](https://.vercel.app/)
+[https://nextjs-progressbar-spinner-demo.vercel.app/](https://nextjs-progressbar-spinner-demo.vercel.app//)
 
 ## Why not use both individualy?
 As a study to learn how to create package and distribute modules on npm, and also add some extra configs.
