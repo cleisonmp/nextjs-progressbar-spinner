@@ -1,0 +1,45 @@
+{
+  "name": "nextjs-progressbar-spinner",
+  "version": "0.0.9",
+  "description": "Nextjs component for a loading effect between pages using nprogress and react-spinners.",
+  "scripts": {
+    "rollup": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleisonmp/nextjs-progressbar-spinner.git"
+  },
+  "author": "Cleison Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleisonmp/nextjs-progressbar-spinner/issues"
+  },
+  "homepage": "https://github.com/cleisonmp/nextjs-progressbar-spinner#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.2",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@rollup/plugin-typescript": "^8.4.0",
+    "@types/react": "^18.0.17",
+    "@types/nprogress": "^0.2.0",
+    "rollup": "^2.78.1",
+    "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-terser": "^7.0.2",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  },
+  "peerDependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "nprogress": "^0.2.0",
+    "react-spinners": "^0.13.4"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "dependencies": {}
+}
